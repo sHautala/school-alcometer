@@ -1,0 +1,9 @@
+body {
+  font-family: Tahoma;
+  background-color: lightgreen;
+  text-align: center;
+}
+
+label, input, button {
+  margin: 6px;
+}
